@@ -364,7 +364,7 @@
         height: 100%;
         font-size: 25px;
         font-weight: 500;
-        margin-top: 70px;
+        margin-top: 50px;
     }
 
     .kv-img {
@@ -393,6 +393,10 @@
     /* list section */
     .list-container {
         padding: 110px 50px;
+    }
+
+    .list-text {
+        margin-bottom: 50px;
     }
 
     .list-text h2 {
@@ -435,6 +439,7 @@
     
     .event-item {
         flex-wrap: wrap;
+        margin-top: 50px;
     }
 
     .event-card {
@@ -444,6 +449,10 @@
     /* FAQ section */
     .faq-container {
         padding: 110px 50px;
+    }
+
+    .faq-sub {
+        margin-bottom: 50px;
     }
 
     .question {
@@ -457,7 +466,7 @@
     /* review section */
     .review-container {
         flex-direction: column;
-        gap: 70px;
+        gap: 50px;
     }
 
     .review-text-wrap {
@@ -500,6 +509,10 @@
     .map-container h2 {
         font-size: 40px;
     }
+    
+    .map-sub {
+        margin-bottom: 50px;
+    }
 
     /* ask section */
     .ask-sec {
@@ -508,6 +521,7 @@
 
     .ask-container h2 {
         font-size: 40px;
+        margin-bottom: 50px;
     }
 
     .ask-name, .ask-tel, .ask-con {
@@ -581,6 +595,7 @@
 
     .kv-btn {
         font-size: 20px;
+        margin-top: 40px;
     }
 
     /* .kv-img img {
