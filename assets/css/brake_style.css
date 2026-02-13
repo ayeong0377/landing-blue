@@ -651,20 +651,29 @@
     }
 
     .event-date {
-        font-size: 15px;
+        /* font-size: 15px; */
         padding: 10px 10px;
+    }
+
+    .event-content {
+        width: 80%;
+        margin: 0 auto;
     }
 
     .event-item {
         margin-top: 40px;
     }
 
+    .event-card {
+        width: 100%;
+    }
+
     .event-text2 h2 {
-        font-size: 20px;
+        /* font-size: 20px; */
     }
 
     .event-text2 p {
-        font-size: 15px;
+        /* font-size: 15px; */
     }
 
     /* FAQ section */
