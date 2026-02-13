@@ -127,7 +127,7 @@ li {
 
 /* info section */
 .info-sec {
-    background-image: url(/assets/images/수술이미지\ 배경.png);
+    background-image: url('../../assets/images/수술이미지\ 배경.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
