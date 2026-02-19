@@ -1,3 +1,5 @@
+alert('이 페이지는 포트폴리오로 제작되었습니다.')
+
 // faq accordion
 $(function(){
      $(".question").on('click', function(){

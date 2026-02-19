@@ -223,10 +223,10 @@
 
     /* ask-menu */
     .ask-menu {
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
         right: 10px;
-        bottom: 10px;
+        /* bottom: 10px; */
     }
 
     .ask-menu img {
@@ -830,14 +830,14 @@
         padding: 40px 16px;
     }
 
-    .ask-menu {
-        width: 50px;
-        height: 50px;
+    /* .ask-menu {
+        width: 60px;
+        height: 60px;
     }
 
     .ask-menu img {
-    padding: 8px;
-    }
+    padding: 10px;
+    } */
 
 }
 
