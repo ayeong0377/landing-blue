@@ -211,8 +211,8 @@ li {
 .list-stlye {
     background-color: #ffffff;
     border-radius: 100px;
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 30px;
+    margin-bottom: 30px;
     gap: 1%;
     align-items: center;
 }
@@ -272,7 +272,7 @@ li {
     width: calc((100% - 48px) / 4);
     border-radius: 20px;
     color: #fff;
-    padding: 60px 0;
+    padding: 80px 0;
 }
 
 .event-text2 h2{
@@ -316,7 +316,7 @@ li {
 
 .question {
     background-color: var(--second-color);
-    padding: 15px 30px;
+    padding: 25px 30px;
     border-radius: 100px;
     justify-content: space-between;
     align-items: center;
@@ -362,7 +362,7 @@ li {
     font-weight: 400;
     text-align: left;
     margin: 0;
-    padding: 30px;
+    padding: 0 30px 30px 30px;
 }
 
 /* review section */
@@ -418,7 +418,6 @@ li {
 .left-pgnav.is-active path {
     stroke: var(--white-color);
 }
-
 
 .right-pgnav.is-active {
     stroke: var(--primary-color);
@@ -602,7 +601,7 @@ li {
 
 .ask-con textarea {
     width: 90%;
-    height: 350px;
+    height: 434px;
     font-size: 20px;
     padding: 20px;
     border-radius: 10px;
@@ -633,7 +632,8 @@ li {
 .ask-check a {
     color: var(--puple-gray-color);
     font-size: 15px;
-    /* gap: 1%; */
+    display: block;
+    margin-left: 5px;
 }
 
 /* .ask-left-empty {
@@ -642,7 +642,7 @@ li {
 
 .ask-checkbox { 
     width: 100%;
-    gap: 1%;
+    gap: 5px;
     justify-content: center;
     align-items: center;
 }
