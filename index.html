@@ -192,9 +192,13 @@
            <!-- FAQ section -->
             <section class="faq-sec">
                 <div class="faq-container">
-                    <h2>FAQ</h2>
-                    <p class="faq-sub">자주 묻는 질문</p>
-                    <div class="faq">
+                    <div class="faq-text-wrap" data-aos="fade-up"
+                     data-aos-duration="1000">
+                        <h2>FAQ</h2>
+                        <p class="faq-sub">자주 묻는 질문</p>
+                    </div>
+                    <div class="faq" data-aos="fade-up"
+                     data-aos-duration="1000">
                         <div class="faq-item">
                             <div class="question bottom d-flex">
                                 <h3>라섹을 해야 할지 라식을 해야할지 잘 모르겠어요</h3>
@@ -438,6 +442,9 @@ var marker = new kakao.maps.Marker({
 
 // 마커가 지도 위에 표시되도록 설정합니다
 marker.setMap(map); 
+
+    // aos 
+    AOS.init();
 
     </script>
 </body>

@@ -67,8 +67,5 @@ $(function(){
     });
 
 
-    // aos 
-    AOS.init();
-
 
 
