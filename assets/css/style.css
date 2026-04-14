@@ -96,7 +96,7 @@ li {
     color: #fff;
 }
 
-.kv-text h2 {
+.kv-text h1 {
     font-size: 70px;
 }
 
@@ -323,7 +323,7 @@ li {
     position: relative;
 }
 
-.question h3 {
+.question h4 {
     font-size: 25px;
     font-weight: 600;
 }
